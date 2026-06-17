@@ -1,0 +1,11 @@
+{
+  "name": "mannutech",
+  "owner": { "name": "mannutech" },
+  "plugins": [
+    {
+      "name": "contextspin",
+      "source": "https://github.com/mannutech/contextspin-plugin",
+      "description": "Replaces Claude Code's whimsical spinner with live org context — open PRs, incidents, meetings, Slack mentions, and more."
+    }
+  ]
+}
