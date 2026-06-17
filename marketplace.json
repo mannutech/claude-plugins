@@ -4,7 +4,7 @@
   "plugins": [
     {
       "name": "contextspin",
-      "source": "https://github.com/mannutech/contextspin-plugin",
+      "source": { "source": "url", "url": "https://github.com/mannutech/contextspin-plugin.git" },
       "description": "Replaces Claude Code's whimsical spinner with live org context — open PRs, incidents, meetings, Slack mentions, and more."
     }
   ]
