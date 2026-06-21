@@ -5,7 +5,7 @@
     {
       "name": "contextspin",
       "source": { "source": "url", "url": "https://github.com/mannutech/contextspin-plugin.git" },
-      "description": "Live context in your Claude Code status bar — weather, Hacker News, PRs awaiting review, CI failures, incidents, meetings. Auto-configures on install; never an empty bar."
+      "description": "Live context in your Claude Code status bar — weather, Hacker News, AI research papers, dev articles, PRs awaiting review, CI failures, incidents, meetings. Auto-configures on install; never an empty bar."
     }
   ]
 }
