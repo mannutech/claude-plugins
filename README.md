@@ -1,6 +1,8 @@
 # mannutech — Claude Code plugin marketplace
 
-A [Claude Code plugin marketplace](https://code.claude.com/docs/en/plugins). Currently hosts one plugin: **ContextSpin** — live context in your Claude Code status bar (weather, Hacker News, PRs awaiting review, CI failures, incidents, meetings), pulled from tools you already run.
+A [Claude Code plugin marketplace](https://code.claude.com/docs/en/plugins). Currently hosts one plugin: **ContextSpin** — live context in your Claude Code status bar (weather, Hacker News, AI research papers, dev articles, PRs awaiting review, CI failures, incidents, meetings), pulled from tools you already run.
+
+![ContextSpin composing live merge requests beneath your own statusline](screenshots/statusline.svg)
 
 ## Add this marketplace
 
