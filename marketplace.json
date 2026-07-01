@@ -6,6 +6,11 @@
       "name": "contextspin",
       "source": { "source": "url", "url": "https://github.com/mannutech/contextspin-plugin.git" },
       "description": "Live context in your Claude Code status bar — weather, Hacker News, AI research papers, dev articles, PRs awaiting review, CI failures, incidents, meetings. Auto-configures on install; never an empty bar."
+    },
+    {
+      "name": "recallcheck",
+      "source": { "source": "url", "url": "https://github.com/mannutech/recallcheck.git" },
+      "description": "Quiz yourself on the code you just wrote — an on-demand /recallcheck:recall-check comprehension self-check on your current diff, plus optional non-blocking nudges before you push or open an MR. No scoring, no gating."
     }
   ]
 }
