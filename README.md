@@ -22,7 +22,7 @@ In Claude Code:
 | Plugin | What it does |
 |---|---|
 | [`contextspin`](https://github.com/mannutech/contextspin-plugin) | Auto-configures a never-empty, live status bar. Wraps the [`contextspin`](https://www.npmjs.com/package/contextspin) npm package. |
-| [`recallcheck`](https://github.com/mannutech/recallcheck) | `/recallcheck:recall-check` quizzes you on the code you just wrote (3–5 questions on the current diff). Optional non-blocking pre-push/stop nudges. Self-contained; no npm package. |
+| [`recallcheck`](https://github.com/mannutech/recallcheck) | `/recallcheck:quiz` quizzes you on the code you just wrote (3–5 questions on the current diff). Optional non-blocking pre-push/stop nudges. Self-contained; no npm package. |
 
 ## Don't want the marketplace?
 

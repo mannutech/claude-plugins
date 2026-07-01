@@ -10,7 +10,7 @@
     {
       "name": "recallcheck",
       "source": { "source": "url", "url": "https://github.com/mannutech/recallcheck.git" },
-      "description": "Quiz yourself on the code you just wrote — an on-demand /recallcheck:recall-check comprehension self-check on your current diff, plus optional non-blocking nudges before you push or open an MR. No scoring, no gating."
+      "description": "Quiz yourself on the code you just wrote — an on-demand /recallcheck:quiz comprehension self-check on your current diff, plus optional non-blocking nudges before you push or open an MR. No scoring, no gating."
     }
   ]
 }
